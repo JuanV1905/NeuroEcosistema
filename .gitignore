@@ -13,3 +13,7 @@ __pycache__/
 .idea/
 *.swp
 *.swo
+
+# Documentos privados de entrega académica
+*.docx
+*.pdf
