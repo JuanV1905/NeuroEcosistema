@@ -1,0 +1,46 @@
+Experimento,Escenario,Configuracion,Arquitectura,Semilla,Supervivencia_Presas_Pct,Supervivencia_Media_Pasos,Alimento_Consumido,Capturas_Depredadores,Energia_Final_Presas,Energia_Final_Deprs,Tiempo_Medio_Captura
+Antes_vs_Despues,A,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",10,50.0,497.33,40,8,31.88,101.63,335.25
+Antes_vs_Despues,A,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",10,29.17,370.62,209,16,38.88,74.25,270.88
+Antes_vs_Despues,A,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",42,66.67,526.71,63,7,44.0,105.58,364.43
+Antes_vs_Despues,A,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",42,41.67,389.12,207,14,58.29,75.11,238.5
+Antes_vs_Despues,A,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",99,62.5,478.62,41,8,43.33,114.78,243.62
+Antes_vs_Despues,A,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",99,16.67,305.62,170,19,20.27,99.09,242.16
+Antes_vs_Despues,B,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",10,50.0,434.75,24,8,25.57,74.34,172.75
+Antes_vs_Despues,B,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",10,16.67,388.29,44,11,14.33,79.67,250.55
+Antes_vs_Despues,B,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",42,54.17,518.71,24,6,22.13,77.76,352.5
+Antes_vs_Despues,B,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",42,25.0,400.33,58,8,27.85,57.19,178.25
+Antes_vs_Despues,B,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",99,50.0,456.04,18,8,17.52,93.2,207.12
+Antes_vs_Despues,B,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",99,50.0,526.83,62,3,26.6,71.23,361.33
+Antes_vs_Despues,C,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",10,37.5,359.58,33,14,27.62,63.71,193.57
+Antes_vs_Despues,C,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",10,0.0,84.21,19,24,0.0,83.08,84.21
+Antes_vs_Despues,C,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",42,41.67,436.0,41,11,23.06,61.61,271.45
+Antes_vs_Despues,C,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",42,8.33,245.08,85,21,9.62,75.25,206.1
+Antes_vs_Despues,C,Neuronal_Gen1_Antes,"(5, 8, 6, 2)",99,29.17,401.0,29,14,16.33,81.01,267.21
+Antes_vs_Despues,C,Neuronal_Gen35_Despues,"(5, 8, 6, 2)",99,8.33,140.46,48,22,5.46,15.04,98.68
+Comparacion_Arquitecturas,A,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",10,50.0,453.62,189,9,59.25,75.58,266.56
+Comparacion_Arquitecturas,A,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",42,66.67,519.71,226,5,81.41,35.77,335.8
+Comparacion_Arquitecturas,A,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",99,54.17,443.92,220,8,67.4,84.63,173.62
+Comparacion_Arquitecturas,B,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",10,12.5,269.0,42,19,12.82,49.15,203.16
+Comparacion_Arquitecturas,B,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",42,16.67,341.46,58,17,16.87,101.24,274.41
+Comparacion_Arquitecturas,B,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",99,4.17,260.96,37,19,5.5,70.48,221.53
+Comparacion_Arquitecturas,C,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",10,0.0,202.0,50,19,0.0,68.6,153.32
+Comparacion_Arquitecturas,C,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",42,41.67,377.29,123,13,38.23,46.74,207.38
+Comparacion_Arquitecturas,C,Neuronal_Amplia_Gen35,"(5, 16, 12, 2)",99,4.17,207.62,55,22,5.12,51.54,182.36
+Linea_Base_Referencia,A,Referencia_Reglas,N/A,10,41.67,440.46,167,14,52.8,120.21,326.5
+Linea_Base_Referencia,A,Referencia_Reglas,N/A,42,58.33,451.67,193,10,74.59,72.4,244.0
+Linea_Base_Referencia,A,Referencia_Reglas,N/A,99,54.17,498.08,222,11,72.55,98.15,377.64
+Linea_Base_Referencia,A,Referencia_Aleatorio,N/A,10,70.83,544.83,84,5,76.96,71.92,336.2
+Linea_Base_Referencia,A,Referencia_Aleatorio,N/A,42,70.83,478.08,79,7,68.03,67.92,182.0
+Linea_Base_Referencia,A,Referencia_Aleatorio,N/A,99,75.0,500.54,82,6,72.0,82.49,202.17
+Linea_Base_Referencia,B,Referencia_Reglas,N/A,10,33.33,427.67,59,14,34.88,85.17,309.36
+Linea_Base_Referencia,B,Referencia_Reglas,N/A,42,54.17,449.33,55,9,41.39,52.79,230.44
+Linea_Base_Referencia,B,Referencia_Reglas,N/A,99,54.17,439.88,51,9,39.16,40.88,202.22
+Linea_Base_Referencia,B,Referencia_Aleatorio,N/A,10,54.17,509.58,29,7,33.29,78.33,292.0
+Linea_Base_Referencia,B,Referencia_Aleatorio,N/A,42,58.33,501.62,37,7,38.67,80.97,266.29
+Linea_Base_Referencia,B,Referencia_Aleatorio,N/A,99,45.83,466.96,28,12,24.62,126.07,334.42
+Linea_Base_Referencia,C,Referencia_Reglas,N/A,10,20.83,303.79,87,17,24.17,50.69,210.29
+Linea_Base_Referencia,C,Referencia_Reglas,N/A,42,20.83,316.58,90,16,23.02,40.02,224.12
+Linea_Base_Referencia,C,Referencia_Reglas,N/A,99,25.0,358.33,92,17,30.52,41.07,274.0
+Linea_Base_Referencia,C,Referencia_Aleatorio,N/A,10,41.67,382.75,40,13,40.57,64.62,199.38
+Linea_Base_Referencia,C,Referencia_Aleatorio,N/A,42,16.67,338.67,26,16,16.89,76.76,210.81
+Linea_Base_Referencia,C,Referencia_Aleatorio,N/A,99,45.83,420.46,47,10,42.33,59.47,171.2
